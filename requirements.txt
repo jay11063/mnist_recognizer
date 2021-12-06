@@ -3,3 +3,4 @@ streamlit-drawable-canvas==0.8.0
 keras==2.7.0
 numpy==1.19.5
 opencv-python-headless==4.5.4.60
+tensorflow==2.7.0
