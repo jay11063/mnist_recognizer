@@ -12,7 +12,7 @@ def load():
 
 model = load()
 
-st.write('# MNIST Recognizer')
+st.write('# Handwriting Number Recognizer')
 
 CANVAS_SIZE = 192
 
