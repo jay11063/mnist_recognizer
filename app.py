@@ -7,7 +7,7 @@ import numpy as np
 
 @st.cache(allow_output_mutation=True)
 def load():
-    return load_model('predict_model.h5')
+    return load_model('predict_model_ver3.h5')
 
 
 model = load()
